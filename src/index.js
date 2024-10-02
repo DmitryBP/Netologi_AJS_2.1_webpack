@@ -1,3 +1,4 @@
-import './js/app.js';
+/* eslint-disable no-unused-vars */
 import './css/style.css';
-import './index.html';
+import html from './index.html';
+import './js/app';
